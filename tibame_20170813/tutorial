@@ -1,0 +1,3 @@
+install BeautifulSoup
+
+sudo pip install BeautifulSoup4
