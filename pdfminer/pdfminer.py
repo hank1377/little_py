@@ -1,3 +1,7 @@
+import sys
+# if there are no conflicting packages in the default Python Libs =>
+sys.path.append("/usr/home/hank1377/pdfminer")
+
 from pdfminer.pdfparser import PDFParser
 #import pdfminer.pdfparser
 #from pdfminer import pdfparser
