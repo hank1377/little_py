@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 
 seat_url = 'https://sales.vscinemas.com.tw/VieShowTicket/Home/SelectSeats'
 
-'ASP.NET_SessionId=njl0nmghztigqedmhh4lbqqi; _gat=1; _ga=GA1.3.25115277.1503041884; _gid=GA1.3.1366520791.1503382649'
-'ASP.NET_SessionId=njl0nmghztigqedmhh4lbqqi; _gat=1; _ga=GA1.3.25115277.1503041884; _gid=GA1.3.1366520791.1503382649'
 headers = {
 'Cache-Control':'max-age=0',
 'Connection':'keep-alive',
